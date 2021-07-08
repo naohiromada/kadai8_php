@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+legend{
+    font-size: 24px;
+}
+
+table{
+    border-collapse: collapse;
+    border: 3px solid #7facc9;
+}
+
+td, th{
+    padding: 8px 20px;
+    border: 1px solid #b7b7b7;
+}
+
+thead{
+    border-bottom: 3px solid #7facc9;
+}
+
+tbody{
+    border-bottom: 1px dashed #bobdbd;
+}
